@@ -41,16 +41,15 @@ A simple bill/invoice splitting app designed to be whimsical and useful.
 
 ## 🎮 Portfolio
 
-Check out my [portfolio website](https://twoplustwoone.com) to see more of my projects, learn about my design process, and explore examples of my work. You'll find playable demos, detailed project descriptions, and insights into my journey in game design and development.
+Check out my [portfolio website](https://twoplustwoone.dev) to see more of my projects and find out more about me!
 
 ---
 
 ## 📫 Get in Touch
 
-- **Email:** francisco@example.com
-- **LinkedIn:** [linkedin.com/in/francisco-perez](https://linkedin.com/in/francisco-perez)
-- **Twitter:** [@twoplustwoone](https://twitter.com/twoplustwoone)
-- **Portfolio:** [twoplustwoone.com](https://twoplustwoone.com)
+- **Email:** frandigiand@gmail.com
+- **LinkedIn:** [linkedin.com/in/fdigiandomenico](https://www.linkedin.com/in/fdigiandomenico)
+- **Portfolio:** [twoplustwoone.dev](https://twoplustwoone.dev)
 
 ---
 
@@ -60,7 +59,7 @@ Check out my [portfolio website](https://twoplustwoone.com) to see more of my pr
 
 ## 📚 Learning & Growth
 
-I'm continuously expanding my knowledge through resources like *The Art of Game Design* by Jesse Schell, participating in game jams, and engaging with game development communities. I love blending my programming skills with my passion for storytelling to create games that are both technically robust and emotionally engaging.
+I'm continuously expanding my knowledge through books, participating in programming events, and engaging with game development communities. I love blending my programming skills with my passion for storytelling to create games that are both technically robust and emotionally engaging.
 
 ---
 
@@ -68,12 +67,5 @@ I'm continuously expanding my knowledge through resources like *The Art of Game 
 
 - **Short-Term:** Release a simple, polished game on Steam to establish a presence in the indie game community.
 - **Long-Term:** Join an indie studio to work on innovative projects that push the boundaries of traditional gaming, or develop my own unique titles that bring joy and creativity to players worldwide.
-
----
-
-## 🏆 Achievements
-
-- **Writing Competitions:** Won short story and poetry competitions in high school.
-- **Game Jam Participant:** Completed several game jams, developing a range of small projects and prototypes.
 
 ---
