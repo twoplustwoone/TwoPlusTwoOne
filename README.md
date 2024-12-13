@@ -37,6 +37,7 @@ A playful app integrating pleasing experiences with practical features, built us
 
 ### 🧾 [splittr](https://github.com/twoplustwoone/splittr)
 A simple bill/invoice splitting app designed to be whimsical and useful.
+
 ---
 
 ## 🎮 Portfolio
